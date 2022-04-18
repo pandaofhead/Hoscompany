@@ -1,0 +1,30 @@
+.cover-container{
+  margin: 0 20% 0 20%;
+
+}
+
+.lead{
+  margin: 20px auto;
+  font-family: "Montserrat";
+}
+.help{
+  margin: 40px auto;
+  font-family: "Montserrat";
+  font-size: 200%;
+}
+.d-flex{
+  background-color: #8FBDD3;
+}
+
+.btn{
+  color: #8FBDD3;
+}
+
+h1{
+  font-family: "Montserrat";
+  margin-bottom: 100px;
+}
+
+body{
+  font-family: "Montserrat";
+}

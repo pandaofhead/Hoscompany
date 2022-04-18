@@ -1,0 +1,27 @@
+body{
+  background-color: #8FBDD3;
+  font-family: "Montserrat";
+}
+
+.testimonials-image{
+  width: 15%;
+  border-radius: 100%;
+  margin: 30px;
+}
+
+#testimonial-carousel{
+  padding: 50px 80px;
+  text-align: center;
+  background-color: #8FBDD3;
+  color: #fff;
+}
+
+.btn{
+  color: #8FBDD3;
+  position: relative;
+  left: 45%;
+}
+
+.icon:hover{
+  color: #00AFC1;
+}
